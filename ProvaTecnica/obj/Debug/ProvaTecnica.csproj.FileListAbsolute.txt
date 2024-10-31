@@ -1,0 +1,8 @@
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\bin\Debug\ProvaTecnica.exe.config
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\bin\Debug\ProvaTecnica.exe
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\bin\Debug\ProvaTecnica.pdb
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\obj\Debug\ProvaTecnica.csproj.AssemblyReference.cache
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\obj\Debug\ProvaTecnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\obj\Debug\ProvaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\obj\Debug\ProvaTecnica.exe
+C:\Users\wande\Source\repos\ProvaTecnica\ProvaTecnica\obj\Debug\ProvaTecnica.pdb
