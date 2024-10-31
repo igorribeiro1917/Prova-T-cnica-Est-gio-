@@ -1,0 +1,8 @@
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\bin\Debug\ProvaTecnica(String).exe.config
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\bin\Debug\ProvaTecnica(String).exe
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\bin\Debug\ProvaTecnica(String).pdb
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\obj\Debug\ProvaTecnica(String).csproj.AssemblyReference.cache
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\obj\Debug\ProvaTecnica(String).csproj.SuggestedBindingRedirects.cache
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\obj\Debug\ProvaTecnica(String).csproj.CoreCompileInputs.cache
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\obj\Debug\ProvaTecnica(String).exe
+C:\Users\wande\Source\repos\ProvaTecnica(String)\ProvaTecnica(String)\obj\Debug\ProvaTecnica(String).pdb
